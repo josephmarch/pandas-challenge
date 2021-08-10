@@ -1,0 +1,11 @@
+Joseph March
+2021-08-10
+
+Based on the Heroes of Pymoli data collected, we can see several observable trends. Three of interest are given below.
+
+1) Males make up the largest gender of players who make purchases, performing over 5 times the number of purchases of Females and Other / Non-Disclosed genders combined, and accounting for over 4 times the profit.
+
+2) People ages 35-39 who make purchases on Heroes of Pymoli appear to spend more than other age groups, but there are fewer of them making purchases than the core ages 15-34 who account for most of the profits, with ages 20-24 accounting for the most.
+
+3) Item ID 92, Final Critic, was both the most popular and most profitable item sold, with Item ID 178, Oathbreaker, Last Hope of the Breaking Storm, coming in second.
+
